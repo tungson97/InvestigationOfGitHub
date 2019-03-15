@@ -123,7 +123,7 @@ plt.xlabel("Температура в мае")
 plt.ylabel("Температура в июне")
 plt.legend()
 plt.show()
-##alsjndjkasndkjasndjkasndjknasjkn
+#lassnd asd asn dnm as "create new branch"
 sigma2_eps = np.var(data[2]) * (1 - r_xy ** 2)
 print(sigma2_eps)
 sigma_eps = math.sqrt(sigma2_eps)
